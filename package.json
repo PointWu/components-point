@@ -6,6 +6,11 @@
     "build": "vite build"
   },
   "dependencies": {
+    "element-plus": "^2.3.4",
+    "element-ui": "^2.15.13",
+    "jspdf": "^2.5.1",
+    "jszip": "^3.10.1",
+    "mint-filter": "^4.0.3",
     "vue": "^3.0.4"
   },
   "devDependencies": {
