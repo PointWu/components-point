@@ -3,7 +3,7 @@
   <!-- <audioFfmpeg/>
   <HelloWorld msg="Hello Point" /> -->
   <!-- <DownPDFtoZip/> -->
-    <mintFilter/>
+    <UnfoldCollapse/>
 
 
 
@@ -19,6 +19,8 @@ import skeletonLoading from './components/skeletonLoading.vue'
 import GetVideo from './components/getVideo.vue'
 import mintFilter from  './components/testMin.vue'
 
+import UnfoldCollapse from './components/UnfoldCollapse.vue'
+
 
 
 export default {
@@ -29,7 +31,8 @@ export default {
     DownPDFtoZip,
     skeletonLoading,
     GetVideo,
-    mintFilter
+    mintFilter,
+    UnfoldCollapse
   }
 }
 </script>
